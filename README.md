@@ -1,29 +1,30 @@
 📊 Customer Revenue & Sales Behavior Analysis Dashboard
 📌 Project Overview
-This project analyzes customer revenue patterns, demographic segmentation, regional contribution, and discount impact on sales using Tableau.
-The dashboard provides insights into:
-Month-wise revenue trends
-Revenue distribution across states
-Age-wise sales performance
-Region-wise revenue share
-Gender-wise category performance
-Quantity vs Discount correlation
-🛠 Tools Used
+This project presents an interactive Tableau dashboard analyzing customer revenue patterns, demographic trends, regional performance, and discount impact on sales.
+The objective of this analysis is to identify key revenue-driving segments and understand customer purchasing behavior to support data-driven business decisions.
+📈 Dashboard Features
+📅 Month-wise Revenue Trend – Identifies seasonal patterns and revenue fluctuations over time
+🌍 Revenue per State – Geographical revenue distribution
+👥 Age-wise Sales Analysis – Sales performance across different age groups
+🗺 Region-wise Revenue Share (%) – Contribution of each region to total revenue
+🚻 Gender-wise Category Analysis – Category preference comparison between male and female customers
+📉 Quantity vs Discount Correlation – Analyzes relationship between discount percentage and order quantity
+💡 Key Insights
+South region contributes the highest share of total revenue.
+Age group 30–40 generates the maximum sales.
+Revenue shows noticeable monthly fluctuations indicating seasonal buying behavior.
+Higher discounts do not always guarantee higher quantity sales.
+🛠 Tools & Technologies Used
 Tableau Public
 Excel / CSV Dataset
 Data Cleaning & Aggregation
-Business Intelligence Techniques
-📈 Key Insights
-South region contributes highest revenue (38%).
-Age group 30–40 generates maximum sales.
-Discount percentage does not show a strict linear relationship with quantity ordered.
-Midwest and South dominate overall revenue share.
-📷 Dashboard Preview
-<img width="1280" height="702" alt="image" src="https://github.com/user-attachments/assets/5ae391ca-a2bc-421c-96fd-0c80a8bb803e" />
-
-#🎯 Skills Demonstrated
-Data Cleaning
-Data Visualization
+Business Intelligence & Data Visualization Techniques
+🎯 Skills Demonstrated
+Data Cleaning & Preparation
+Exploratory Data Analysis (EDA)
 Business Insight Extraction
 Correlation Analysis
-Dashboard Design
+Interactive Dashboard Design
+Data Storytelling
+📷 Dashboard Preview
+(Add your dashboard screenshot image here)
