@@ -55,7 +55,5 @@ The objective of this analysis is to identify key revenue-driving segments and u
 
 ---
 
-## 🔗 Live Dashboard
 
-(Add your Tableau Public link here)
 
