@@ -48,12 +48,3 @@ The objective of this analysis is to identify key revenue-driving segments and u
 
 ---
 
-## 📷 Dashboard Preview
-
-![Dashboard Preview](<img width="1280" height="702" alt="image" src="https://github.com/user-attachments/assets/39a5dec5-76e1-4f6a-8272-44de65fb5b74" />
-)
-
----
-
-
-
